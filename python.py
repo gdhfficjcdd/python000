@@ -1,3 +1,6 @@
 print("HI")
 print("hello world")
 print("Hello")
+input(a)
+input(d)
+print(a*d)
